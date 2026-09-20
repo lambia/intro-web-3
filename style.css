@@ -27,6 +27,6 @@ footer {
     color: white;
 }
 
-.bottoniera {
-    border: solid 1px red;
+#links {
+    text-align: right;
 }
